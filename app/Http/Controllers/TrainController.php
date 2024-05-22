@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use A3pp\Models\Train;
+use App\Models\Train;
 
 class TrainController extends Controller
 {
