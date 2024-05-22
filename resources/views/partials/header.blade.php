@@ -1,1 +1,5 @@
-<div>Header <i class="fa-solid fa-home"></i></div>
+<div>
+    <h1 class="text-center">
+        Treni in Arrivo
+    </h1>
+</div>
