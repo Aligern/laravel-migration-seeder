@@ -1,0 +1,46 @@
+[
+    {
+    "azienda" : "Trenitalia",
+    "stazione_di_partenza" : "Palermo",
+    "stazione_di_arrivo" : "Catania",
+    "orario_di_partenza" : "2022-07-01 15:10:00",
+    "orario_di_arrivo" : "2022-07-01 19:20:00",
+    "codice_treno" : "75498",
+    "numero_carrozze" : 12,
+    "in_orario" : true,
+    "cancellato" : false
+    },
+    {
+    "azienda" : "Trenitalia",
+    "stazione_di_partenza" : "Milano",
+    "stazione_di_arrivo" : "Roma",
+    "orario_di_partenza" : "2022-07-01 10:00:00",
+    "orario_di_arrivo" : "2022-07-01 12:00:00",
+    "codice_treno" : "75299",
+    "numero_carrozze" : 15,
+    "in_orario" : true,
+    "cancellato" : false
+    },
+    {
+    "azienda" : "Trenitalia",
+    "stazione_di_partenza" : "Bologna",
+    "stazione_di_arrivo" : "Napoli",
+    "orario_di_partenza" : "2022-07-01 12:00:00",
+    "orario_di_arrivo" : "2022-07-01 14:00:00",
+    "codice_treno" : "15369",
+    "numero_carrozze" : 12,
+    "in_orario" : true,
+    "cancellato" : false
+    },
+    {
+    "azienda" : "Trenitalia",
+    "stazione_di_partenza" : "Milano",
+    "stazione_di_arrivo" : "Roma",
+    "orario_di_partenza" : "2022-07-01 20:00:00",
+    "orario_di_arrivo" : "2022-07-01 22:15:00",
+    "codice_treno" : "62568",
+    "numero_carrozze" : 15,
+    "in_orario" : true,
+    "cancellato" : false
+    }
+]
