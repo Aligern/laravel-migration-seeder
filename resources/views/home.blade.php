@@ -9,7 +9,7 @@
                 {{ $train->azienda }}
             </h3>
             <p>
-                il treno numero 
+                il treno numero
                 <strong>
                     {{ $train->codice_treno }}
                 </strong>. 
@@ -33,6 +33,7 @@
               <strong>
                   {{ $train->orario_di_arrivo }}
               </strong>
+              è in arrivo al binario: 01
             </p>
         @endforeach
 </main>
